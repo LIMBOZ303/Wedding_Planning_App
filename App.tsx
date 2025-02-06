@@ -19,4 +19,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default App; //lmao
+export default App; //12
